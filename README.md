@@ -1,3 +1,8 @@
+# Housing Website
+
+Find and list the housing in the website along with all the neccessary details
+Uses Firebase authentication for the user.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
